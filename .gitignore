@@ -1,0 +1,12 @@
+# 编译产物
+*.o
+myshell/myshell
+
+# vim 交换/备份文件
+*.swp
+*.swo
+*~
+
+# 测试输出
+out.txt
+b.txt
